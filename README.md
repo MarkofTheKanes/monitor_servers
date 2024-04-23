@@ -1,0 +1,1 @@
+A set of bash scripts to automate monitoring and displaying of server and application metrics. They never fully worked
